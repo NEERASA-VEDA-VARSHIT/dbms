@@ -164,8 +164,7 @@ EventManagementJDBC/
 ├── run.bat                                 # Windows execution script
 ├── run.sh                                  # Linux/Mac execution script
 ├── manifest.txt                            # JAR manifest
-├── README.md                               # This file
-└── PROJECT_SUMMARY.md                     # Project summary
+└── README.md                               # This file
 ```
 
 ## 🔧 Configuration
